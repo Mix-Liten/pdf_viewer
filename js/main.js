@@ -1,4 +1,4 @@
-let Url = '/sample/seo.pdf';
+let Url = './sample/seo.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
