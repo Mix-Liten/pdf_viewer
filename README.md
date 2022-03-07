@@ -1,7 +1,7 @@
 ## PDF_Viewer
 > *simple way to read pdf file*
 
-[Demo Link](https://mix-liten.github.io/pdf_viewer/)
+[Demo Link](https://mix-liten.github.io/tool-pdf_viewer/)
 
 ### some tips
 1. **Select File and Check Read** can load local pdf file
